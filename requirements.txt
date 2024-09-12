@@ -1,0 +1,8 @@
+pytesseract
+Pillow
+pynput
+PyQt5
+opencv-python
+numpy
+baidu-aip
+chardet
